@@ -26,6 +26,9 @@ The goal is to load the dataset into R, process it and provide a tidy, subsetted
 
 These steps are done in the attached R script called run_analysis.R
 
+## Output 
+The output of this task can be found in this repository.
+
 ### Output files:
 * README.md: Shows information about what has been done and explains attached files
 * CodeBook: detailed explanation of what has been done for purpose of reproducability
