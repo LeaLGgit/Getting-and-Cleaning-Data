@@ -1,9 +1,10 @@
 # Getting-and-Cleaning-Data
 Practicing to retrieve datasets from the web and tidy the data
 
+## Introduction
 This repository holds an practical assignemnt which major tasks was to get sensory data from the web. A study was contucted by Jorge et al. (2012) to retrieve measurements on human activity recognition using a Samsung Smartphone. A number of 30 volunteers wore a Smartphone around their waist and performed every-day life acitivitys (e.g. sitting, standing, lying, walking, walking upstairs, walking downstairs), afterwards 70% of the subjects were allocated to the train group and respectively 30% to the test group. Sensor signals of the smartphone, namely accelerometer and gyroscope, were measured and each recording 3 axial signals into different directions. The researchers investigate a little further and calculate different variables with a time or frequency domain. The dataset for this assignemnt can be downloaded here:  https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip  
 
-## What does this Zip file contain? 
+### What does this Zip file contain? 
 The underlying UCI HAR Dataset features 4 files and two other folders. 
 * *README.txt* gives description on what has been done and what is stored where 
 * *features_info.txt* gives an description of all the variables that were measured and processed for each subject
