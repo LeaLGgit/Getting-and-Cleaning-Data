@@ -30,10 +30,10 @@ These steps are done in the attached R script called run_analysis.R
 The output of this task can be found in this repository.
 
 ### Output files:
-* README.md: Shows information about what has been done and explains attached files
-* CodeBook: detailed explanation of what has been done for purpose of reproducability
-* run_analysis.R: stores the R script performing the task from the beginning to end
-* FinalDataSet.csv: stores the final dataset, for each subject (1-30) and activity (sitting, standing, lying, walking, walking upstairs, walking downstairs), the mean of the measurements are provided, the units are radians/ seconds. 
+* *README.md*: Shows information about what has been done and explains attached files
+* *CodeBook.xlsx*: detailed explanation of what has been done for purpose of reproducability
+* *run_analysis.R*: stores the R script performing the task from the beginning to end
+* *FinalDataSet.csv*: stores the final dataset, for each subject (1-30) and activity (sitting, standing, lying, walking, walking upstairs, walking downstairs), the mean of the measurements are provided, the units are radians/ seconds. 
 
 ## Citation:
 [1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
