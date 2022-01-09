@@ -1,4 +1,4 @@
-# Getting-and-Cleaning-Data
+# Getting and Cleaning Sensory Data on Human Ativity
 Practicing to retrieve datasets from the web and tidy the data
 
 ## Introduction
